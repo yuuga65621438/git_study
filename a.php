@@ -5,6 +5,6 @@
 <title>課題20</title>
 </head>
 <body>
-<?php echo 'hello procir'; ?>
+<?php echo 'hello yuuga'; ?>
 </body>
 </html>
