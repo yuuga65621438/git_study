@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<meta charset="UFT-8">
+<meta charset="UTF-8">
 <title>課題20</title>
 </head>
 <body>
