@@ -5,7 +5,7 @@
 <title>課題20</title>
 </head>
 <body>
-<?php echo 'こんにちはh'; ?>
+<?php echo 'こんにちは'; ?>
 </body>
 </html>
 
