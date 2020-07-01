@@ -1,4 +1,4 @@
-<?php $result = 1 + 1; ?>
+<?php $result = 1 - 1; ?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
